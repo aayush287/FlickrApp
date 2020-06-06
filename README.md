@@ -1,5 +1,5 @@
 # FlickrApp
-An app allows user to see pictures from flickr website. This app uses Flickr Api to show user pictures from [Flickr](https://www.flickr.com/)<br>
+An app allows user to see pictures from flickr website. This app uses Flickr Api to show user pictures from [Flickr](https://www.flickr.com/)
 website. It parses JSON responses from the API which are loaded through __AsyncTask__ class which runs in background without blocking <br>
 main UI thread. It uses __Picasso__ library to load image from given URL.
 
