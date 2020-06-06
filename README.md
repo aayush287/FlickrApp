@@ -4,8 +4,8 @@ website. It parses JSON responses from the API which are loaded through __AsyncT
 main UI thread. It uses __Picasso__ library to load image from given URL.
 
 ## Why this project?
-To become an Android developer, you must know how to bring particular mobile experiences to life. Specifically, you need to know how <br>
-to build clean and compelling user interfaces (UIs), fetch data from network services, and optimize the experience for various mobile <br>
+To become an Android developer, you must know how to bring particular mobile experiences to life. Specifically, you need to know how 
+to build clean and compelling user interfaces (UIs), fetch data from network services, and optimize the experience for various mobile 
 devices. You will hone these fundamental skills in this project.
 
 By building this app, you will demonstrate your understanding of the foundational elements of programming for Android.<br>
